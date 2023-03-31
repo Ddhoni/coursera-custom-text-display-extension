@@ -16,7 +16,7 @@ Custom Coursera text view extension with draggable, show/collapse, color styles 
 1. Click on the extension icon
 2. Click show captions button and the captions will be shown
 3. If you want to close the captions, click on the close button
-4. If you want to drag the captions, click on the drag button and drag it to the desired position (coming soon)
+4. If you want to drag text, move the cursor over the text until your cursor changes to a move cursor style or your cursor is like a plus (+) symbol and drag it to the desired position (coming soon)
 5. If you want to change the color of the captions, click on the color button and select the desired color (coming soon)
 6. If you want to change the background color of the captions, click on the color button beside the background color label and select the desired color. You also can change value of transparency by sliding the slider with labeled background transparency (coming soon)
 
