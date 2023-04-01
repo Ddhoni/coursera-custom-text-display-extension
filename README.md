@@ -63,3 +63,11 @@ Custom Coursera text view extension with draggable, show/collapse, color styles 
 - add draggable feature
 - add show/collapse button feature
 - add refresh button feature
+
+## How to update the extension
+<!-- How to update the extension -->
+1. Pull out the latest version from the repository
+2. Open Chrome and go to `chrome://extensions/`
+3. Enable `Developer mode` (top right corner)
+4. On the Coursera Custom Captions Extension, click on `Reload` button (⟳)
+5. If you are a new User who wants to use this extension or use the previous zip file, please follow the installation steps above to install the new version of the extension
